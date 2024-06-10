@@ -6,7 +6,7 @@ Passionate about turning data into actionable insights
 
 🌟 Skills:
 
-Data Analysis: Proficient in Excel, Power BI, and SQL
+Data Analysis: Proficient in Excel, Power BI,SQL and Python
 
 Visualization: Expertise in creating compelling data stories
 
